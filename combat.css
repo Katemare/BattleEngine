@@ -1,0 +1,10 @@
+.meter
+{
+	height:30px;
+	background-color:pink;
+}
+.meter_current
+{
+	background-color:darkgreen;
+	height:100%;
+}
